@@ -1,8 +1,7 @@
 # Youtube Trending Video Analysis
 
 [![Preview](Resources/Images/preview_application.png)](https://personal-machine-230918.appspot.com/)
-
-by [Raul Maldonado](https://www.linkedin.com/in/raulm8/)
+by Bhuvan nischay swathi priyatham mahanth
 
 [Click here to see the deployment via #GCP](https://personal-machine-230918.appspot.com/)
 
@@ -87,11 +86,7 @@ Enjoy!
 
 * [Flask: Quick Start](http://flask.pocoo.org/docs/0.12/quickstart/)
 
-Contact information:
 
-* [LinkedIn](https://www.linkedin.com/in/raulm8/)
-
-* [rmaldonadocloud@gmail.com](mailto:rmaldonadocloud@gmail.com)
 
 <a name = "Deployments"/>
 
