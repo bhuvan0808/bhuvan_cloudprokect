@@ -3,7 +3,7 @@
 [![Preview](Resources/Images/preview_application.png)](https://personal-machine-230918.appspot.com/)
 by Bhuvan nischay swathi priyatham mahanth
 
-[Click here to see the deployment via #GCP](https://personal-machine-230918.appspot.com/)
+[Click here to see the deployment via #GCP](https://personal-machine-230918.appspot.com/) 
 
 **Table of Contents**
 
